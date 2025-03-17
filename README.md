@@ -1,1 +1,1 @@
-# Credit-card-detection
+# Spam-SMS-Detection
